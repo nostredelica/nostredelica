@@ -2,13 +2,13 @@
 <p align="center">Frontend Developer • Web3 Enthusiast • Creative Technologist</p>
 
 <p align="center">
-  <a href="https://github.com/hafizh-frontend">
+  <a href="https://github.com/nostredelica">
     <img src="https://komarev.com/ghpvc/?username=hafizh-frontend&label=Profile+Views&color=blue&style=flat" alt="profile views"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:hahafizhmaulana@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/email-contact-blue?style=flat-square&logo=gmail">
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/hafizhmaulana">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
