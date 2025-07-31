@@ -23,9 +23,8 @@
 
 - 💻 Languages: TypeScript, JavaScript, Dart  
 - ⚛️ Frameworks: React, Next.js, React Native, Vue, Flutter  
-- ⚙️ Tooling: Node.js, Redux, Zod, Axios  
 - 🌐 Platforms: Web, Mobile (Expo)
-- 🔐 Web3: NFT Minting, Crypto Deposit, Smart Contract Staking
+- 🔐 Web3: Web3js, Etherjs, Wagmi
 
 ---
 
