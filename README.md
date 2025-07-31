@@ -21,7 +21,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,flutter,tailwind,scss,redux,vite,vue,wasm" />
 </p>
 
-- 💻 Languages: TypeScript, JavaScript, SCSS, Dart  
+- 💻 Languages: TypeScript, JavaScript, Dart  
 - ⚛️ Frameworks: React, Next.js, React Native, Vue, Flutter  
 - ⚙️ Tooling: Node.js, Redux, Zod, Axios  
 - 🌐 Platforms: Web, Mobile (Expo)
