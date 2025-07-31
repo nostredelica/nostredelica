@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hafizh</h1>
-<p align="center">Frontend Developer • Web3 Enthusiast • Creative Technologist</p>
+<p align="center">Frontend Developer • Web3 Enthusiast </p>
 
 <p align="center">
   <a href="https://github.com/nostredelica">
@@ -29,6 +29,7 @@
 
 ---
 
+<!--
 ### 🚀 Featured Projects
 
 - 🔁 **Crypto Deposit + NFT Minting**  
@@ -39,6 +40,7 @@
 
 - 🧠 **Real-Time Whisper Transcription**  
   Offline client-side transcription app (WASM, AssemblyAI fallback)
+-->
 
 <!--
 **nostredelica/nostredelica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
